@@ -1,0 +1,26 @@
+/* Here we add all the css content and it will reflect on our site*/
+/*for normal selectors we just use their name*/
+/*for class selectors we use .class_name*/
+/*for id selectors we use #id_name*/
+/*id's are unique but classes can be same*/
+
+body {
+    background-color: #d4e9e9;      
+}
+
+h1 {
+    color:teal;
+}
+
+h2 {
+    color:cadetblue;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: blue;
+    border-width: 7px;
+    width: 7%;
+    
+}
